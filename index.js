@@ -86,7 +86,7 @@ app.use(bodyParser.json());
 // librería para poder subir ficheros
 //******************************************************************
 
-app.use(fileUpload());
+
 
 //******************************************************************
 // configuraciones 
